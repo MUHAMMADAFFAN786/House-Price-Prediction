@@ -37,3 +37,6 @@ python main.py
 ## Output
 - House price predictions
 - Actual vs Predicted Price graph
+
+## Internship Task
+Task 2 completed as part of the internship program at **SkillCraft Technology**.
